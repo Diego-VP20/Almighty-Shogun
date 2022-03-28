@@ -1,6 +1,4 @@
 ## 👋 So, we meet again
-23 year old developer from the Netherlands. Big fan of **Genshin Impact**, **Honkai Impact 3rd** and **The Legend of Zelda series**. 
-
 - 🎂 Age:                     23 years old
 - 🏠 Living in:               Netherlands
 - 🎮 Games:                   Genshin Impact and Honkai Impact 3rd
