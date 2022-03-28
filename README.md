@@ -13,8 +13,8 @@ I mainly work with **C#**, **C++**, **PHP**, **Vue.js**, **Laravel** and **JavaS
 
 ## 💻 GitHub statistics
 <a href="">
-  <img align="center" src="https://github-readme-stats-almighty-shogun.vercel.app/api?username=Almighty-Shogun&show_icons=true&theme=onedark&count_private=true&cache_seconds=1800" width="450" height="175"/>
+  <img align="center" src="https://github-readme-stats-almighty-shogun.vercel.app/api?username=Almighty-Shogun&show_icons=true&theme=onedark&count_private=true&cache_seconds=1800" width="440" height="175"/>
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats-almighty-shogun.vercel.app/api/top-langs/?username=Almighty-Shogun&show_icons=true&theme=onedark&exclude_repo=github-readme-stats&layout=compact&cache_seconds=1800" width="450" height="175"/>
+  <img align="center" src="https://github-readme-stats-almighty-shogun.vercel.app/api/top-langs/?username=Almighty-Shogun&show_icons=true&theme=onedark&exclude_repo=github-readme-stats&layout=compact&cache_seconds=1800" width="440" height="175"/>
 </a>
