@@ -2,7 +2,7 @@
 - 🎂 Age:                     23 years old
 - 🏠 Living in:               Netherlands
 - 🎮 Games:                   Genshin Impact and Honkai Impact 3rd
-- 🔧 Working on:              Several personal projects written in **C#** and **C++**
+- 🔧 Working on:              Several personal projects written in **C#**, **C++** and **PHP**
 - 🤔 Currently learning:      More **C#** and **C++**
 
 
