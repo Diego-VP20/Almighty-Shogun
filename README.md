@@ -9,7 +9,9 @@
 ## 🔧 Languages
 I mainly work with **C#**, **C++**, **PHP**, **Vue.js**, **Laravel** and **JavaScript**. 
 
-<!-- Open source projects (if there ever will be any...) -->
+## 📂 Open-source projects
+- [**`DiscordWebhookPHP`**](https://github.com/Almighty-Shogun/DiscordWebhookPHP): A basic and simple PHP package for Discord webhooks (**_Coming soon_**)
+- [**`SimpleDppBot`**](https://github.com/Almighty-Shogun/SimpleDppBot): A simple Discord bot written in C++ with a few basic commands (**_Coming soon_**)
 
 ## 💻 GitHub statistics
 <a href="">
