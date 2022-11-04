@@ -1,5 +1,5 @@
 ## 👋 So, we meet again
-- 🎂 Age:                     24 years old
+- 🎂 Age:                     October 24th 1998
 - 🏠 Living in:               Netherlands
 - 🎮 Games:                   Genshin Impact, Honkai Impact 3rd, Tower of Fantasy and Minecraft
 - 🔧 Working on:              Several personal projects written in **C#**, **C++** and **PHP**
